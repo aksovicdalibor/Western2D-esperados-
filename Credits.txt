@@ -1,0 +1,50 @@
+Top down shooting:
+https://www.youtube.com/watch?v=LNLVOjbrQj4&ab_channel=Brackeys
+
+maikng 2D classic: 
+https://www.youtube.com/watch?v=YHSanceczXY&ab_channel=BMo
+
+game over screen: 
+https://www.youtube.com/watch?v=K4uOjb5p3Io&ab_channel=CocoCode
+
+Scene transitions:
+https://www.youtube.com/watch?v=CE9VOZivb3I&ab_channel=Brackeys
+
+audio:
+https://www.youtube.com/watch?v=6OT43pvUyfY&ab_channel=Brackeys
+
+custom font with TMP:
+https://www.youtube.com/watch?v=nBcP7FaDPE0&ab_channel=CodeMonkey
+
+coroutines:
+https://answers.unity.com/questions/796881/c-how-can-i-let-something-happen-after-a-small-del.html
+
+factory pattern:
+https://www.patrykgalach.com/2019/03/28/implementing-factory-design-pattern-in-unity/#:~:text=Factory%20is%20a%20design%20pattern,what%20it%20is%20all%20about!
+
+settings menu:
+https://www.youtube.com/watch?v=YOaYQrN1oYQ&ab_channel=Brackeys
+
+
+Sound clips:
+
+player getting hit:
+https://freesound.org/people/SexyNakedBunny/sounds/274717/
+glass deflection: 
+https://freesound.org/people/morganpurkis/sounds/392975/
+Button clicks:
+https://freesound.org/people/volkbutphan/sounds/485486/
+bullet ricochet:
+https://freesound.org/people/CGEffex/sounds/96630/
+
+
+animation clips and pictures:
+
+Firing and destroying of a bullet:
+https://opengameart.org/content/bubble-explosion
+Floor:
+https://opengameart.org/content/2048-digitally-painted-tileable-desert-sand-texture
+Main Menu background:
+https://pixabay.com/vectors/art-cartoon-cowboy-duel-gunslinger-1295282/
+blood splat:
+https://opengameart.org/content/blood-splats

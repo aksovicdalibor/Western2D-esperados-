@@ -1,0 +1,2 @@
+F:\Program Files\OneDrive\Documents\Western2D-sperados-\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+F:\Program Files\OneDrive\Documents\Western2D-sperados-\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
